@@ -1,0 +1,2 @@
+# thinking
+write some thing.
